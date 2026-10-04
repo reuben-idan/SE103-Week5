@@ -1,0 +1,7 @@
+Student Name: Reuben Idan
+GitHub Username: reuben-idan
+Repository: SE103-Week5
+Repository URL: https://github.com/reuben-idan/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time:
+I would review each command's output immediately before moving to the next task. I would also keep a short checklist of required files and commit messages so I can confirm every deliverable as I go. This would make it even easier to catch missing files early.
