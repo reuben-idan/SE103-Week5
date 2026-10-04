@@ -1,0 +1,5 @@
+Project owner: Reuben Idan
+Started shell practice for SE103-Week5
+My first attempt had an error in my command
+I fixed the issue and got a success result
+Saving outputs helps me review later
