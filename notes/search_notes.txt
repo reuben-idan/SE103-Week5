@@ -1,0 +1,13 @@
+Student Name: Reuben Idan
+
+What grep helped me do:
+Grep searched my journal for the word error and showed the matching line. Saving its output lets me review the result without searching again.
+
+What find helped me do:
+Find looked through shell_practice for files whose names end in .txt. It recorded the matching paths in one output file.
+
+What the pipe helped me do:
+The pipe sent the names from ls directly to grep. This let me filter the directory listing to just the text files and save those matches.
+
+Difference between > and >>:
+The > operator writes output to a file and replaces anything that was already there. The >> operator appends output to the end, preserving the existing contents.
