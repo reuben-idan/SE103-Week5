@@ -1,0 +1,13 @@
+Student Name: Reuben Idan
+
+What I practiced in the shell:
+I practiced using output redirection to create files and append new lines without replacing earlier work. I used grep to find a matching line, find to locate files, and a pipe to filter a directory listing. I also practiced listing wildcard matches before copying them. These commands helped me understand how small shell tools can work together.
+
+How GitHub changed my submission habits:
+Using GitHub encouraged me to save my work in small, meaningful commits. I checked that the required files were in the repository instead of relying only on my local copy. Branches and pull requests gave me a separate place to prepare and review a change before merging it. This made the submission process more organized and traceable.
+
+One mistake I made and how I fixed it:
+I initially had only a minimal README instead of the required identity details. I compared it with the assignment checklist and added my name and GitHub username before moving on. I also checked the generated search and wildcard output files to make sure the commands had created the expected results. Reviewing each task before committing helped me catch and correct omissions.
+
+Why the repository name had to be exactly SE103-Week5:
+The assignment checker looks for a repository with the exact name SE103-Week5. A different name could prevent it from finding my submission, even if the files were otherwise correct. Using the required name makes the repository easy to identify and evaluate.
